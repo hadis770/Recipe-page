@@ -1,12 +1,14 @@
 body{
   background-color: hsl(30, 54%, 90%);
   font-size: 16px;
+  box-sizing: border-box;
   display: flex;
   justify-content: center;
   align-items: center;
-  box-sizing: border-box;
 }
 .container{
+  margin-top: 115px;
+  margin-left: 345px;
   background-color: white;
   width: 735px;
   border-radius: 20px;
@@ -148,6 +150,5 @@ line-height: 1.76;
   font-weight: 700;           /* bold */
   color: hsl(14, 45%, 36%);             /* brown for values */
 }
-
 
 
